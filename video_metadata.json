@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "intro_video_id": "dQw4w9WgXcQ",
+      "shlokas": [
+        { "verse": 1, "video_id": "abc123xyz" },
+        { "verse": 2, "video_id": "def456uvw" }
+      ]
+    }
+  ]
+}
