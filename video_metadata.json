@@ -3,10 +3,10 @@
   "chapters": [
     {
       "chapter_number": 1,
-      "intro_video_id": "dQw4w9WgXcQ",
+      "intro_video_id": "pMAutMkiTz0",
       "shlokas": [
-        { "verse": 1, "video_id": "abc123xyz" },
-        { "verse": 2, "video_id": "def456uvw" }
+        { "verse": 1, "video_id": "pMAutMkiTz0" },
+        { "verse": 2, "video_id": "pMAutMkiTz0" }
       ]
     }
   ]
