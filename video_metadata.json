@@ -3,10 +3,28 @@
   "chapters": [
     {
       "chapter_number": 1,
-      "intro_video_id": "qMSKuEXCjAc",
+      "intro_video_id": {
+        "odia": "qMSKuEXCjAc",
+        "hindi": "qMSKuEXCjAc",
+        "english": "qMSKuEXCjAc"
+      },
       "shlokas": [
-        { "verse": 1, "video_id": "qMSKuEXCjAc" },
-        { "verse": 2, "video_id": "qMSKuEXCjAc" }
+        {
+          "verse": 1,
+          "video_id": {
+            "odia": "qMSKuEXCjAc",
+            "hindi": "qMSKuEXCjAc",
+            "english": "qMSKuEXCjAc"
+          }
+        },
+        {
+          "verse": 2,
+          "video_id": {
+            "odia": "qMSKuEXCjAc",
+            "hindi": "qMSKuEXCjAc",
+            "english": "qMSKuEXCjAc"
+          }
+        }
       ]
     }
   ]
